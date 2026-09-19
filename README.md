@@ -1,6 +1,6 @@
-# ibk-web.github.io
+# VW-ibk.github.io
 
-Personal portfolio of Bamiro Ibukunoluwa Olufunto (Ibk), live at **https://ibk-web.github.io**.
+Personal portfolio of Bamiro Ibukunoluwa Olufunto (Ibk), live at **https://vw-ibk.github.io**.
 
 Plain HTML, CSS and JavaScript, with [GSAP](https://gsap.com) for the intro animation. No build step:
 edit `index.html`, commit and push, and GitHub Pages updates the site in a minute or two.
